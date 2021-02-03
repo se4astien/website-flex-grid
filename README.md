@@ -8,3 +8,5 @@ Deploy to Netlify and add form functionality
 https://loruki-website-flex-grid.netlify.app/
 
 ## Screenshot
+
+<img src="https://github.com/se4astien/website-flex-grid/blob/main/screenshot.png" width="70%" />
